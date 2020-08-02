@@ -1,5 +1,5 @@
 /**
- * Copyright © 2020, Mary B. Feezell
+ * Copyright © 2020, Mary Feezell
  *
  * Lab Assignment, Module 11, Geologic Time line to Linear Scale
  * various events plotted on a single, linear scale from early Hadean
@@ -10,7 +10,7 @@
  *
  *
  * @summary Geological Events Chart in javascript and D3 library
- * @author Mary Brinson Feezell - mk@feezell.com
+ * @author Mary Feezell - mk@feezell.com
  *
  * Last Modified  : 2020-07-30
  *
