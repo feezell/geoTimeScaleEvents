@@ -1,0 +1,7 @@
+#timescale svg {
+  background-color: white;
+}
+
+svg text {
+  text-rendering: optimizeLegibility;
+}

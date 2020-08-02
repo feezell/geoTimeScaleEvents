@@ -1,0 +1,22 @@
+name,span,begin,end,color,comment
+Quaternary,Period,2600000,0,Yellow,
+Neogene,Period,23000000,2600000,Tan,
+Paleogene,Period,65000000,23000000,SandyBrown,
+Cretaceous,Period,146000000,65000000,OliveDrab,
+Jurassic,Period,200000000,146000000,MediumSeaGreen,
+Triassic,Period,251000000,200000000,LightSeaGreen,
+Permian,Period,299000000,251000000,SkyBlue,
+Pennsylvanian,Period,318000000,299000000,SlateBlue,
+Mississippian,Period,359000000,318000000,SteelBlue,
+Devonian,Period,416000000,359000000,Thistle,
+Silurian,Period,444000000,416000000,Plum,
+Ordovician,Period,488000000,444000000,Pink,
+Cambrian,Period,542000000,488000000,RosyBrown,
+Hadean,Eon,"4567000000","4000000000",Gray,
+Archean,Eon,"4000000000","2500000000",DarkGray,
+Proterozoic,Eon,"2500000000","542000000",LightGray,
+Phanerozoic,Eon,"542000000",0,Olive,
+Paleozoic,Era,"542000000","251000000",MediumPurple,
+Mesozoic,Era,"251000000","65000000",MediumAquaMarine,Age of Reptiles
+Cenozoic,Era,"65000000",0,Khaki,Age of Mammals
+Precambrian,Supereon,4580000000,542000000,Gray,
